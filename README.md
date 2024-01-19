@@ -2,12 +2,12 @@
 
 I'm a Materials Structure Scientist, also Open Science enthusiast
 
-– ⚙️ BEng in Materials Science
-– 💎 MSc in Solid State Research
-– 🐍 Professional Retraining in Python Dev
-– ∫Σ I have a Math and Physics hard background
-– 📈 I'd like to analyse and visualise data
-– 📖 I'm currently study of Machine Learning
+— ⚙️ BEng in Materials Science
+— 💎 MSc in Solid State Research
+— 🐍 Professional Retraining in Python Dev
+— ∫Σ I have a Math and Physics hard background
+— 📈 I'd like to analyse and visualise data
+— 📖 I'm currently study of Machine Learning
 
 <!--
 **denisayeff/denisayeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
