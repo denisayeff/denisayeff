@@ -2,13 +2,12 @@
 
 I'm a Materials Structure Scientist, also Open Science enthusiast
 
-— ⚙️ BEng in Materials Science
-— 💎 MSc in Solid State Research
-— 🐍 Professional Retraining in Python Dev
-— ∫Σ I have a Math and Physics hard background
-— 📈 I'd like to analyse and visualise data
-— 📖 I'm currently study of Machine Learning
-
+- ⚙️ BEng in Materials Engineering
+- 💎 MSc/PhD Candidate in Solid State Research
+- 🐍 Data Analyst and Visualisator in Python
+- ∫Σ Math and Physics Tutor and Lecturer
+- ⚗️ Now I'm Chemical/R&D Engineer at SLB Technology Centre
+- 📖 I'm currently study of Data Engineering and Base of ML
 <!--
 **denisayeff/denisayeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
